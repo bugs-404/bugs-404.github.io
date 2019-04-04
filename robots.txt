@@ -10,4 +10,6 @@ Disallow: /css/
 Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
-Sitemap: https://blog.tuzki.site/sitemap.xmlSitemap: https://blog.tuzki.site/baidusitemap.xml
+
+Sitemap: https://blog.tuzki.site/sitemap.xml
+Sitemap: https://blog.tuzki.site/baidusitemap.xml
